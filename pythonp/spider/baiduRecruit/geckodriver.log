@@ -1,0 +1,303 @@
+1531126306770	geckodriver	INFO	Listening on 127.0.0.1:49168
+1531126308904	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.A8qv2iaYsJoh
+1531126308917	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531126308939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49176
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531126313152	Marionette	INFO	Listening on port 49176
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 7156] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531126429733	geckodriver	INFO	Listening on 127.0.0.1:49457
+1531126431771	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.cWNKVxDLV1LC
+1531126431776	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531126431781	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49465
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531126434612	Marionette	INFO	Listening on port 49465
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 11144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11144] WARNING: pipe error: 109: file c:/builds/moz2ing browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531126640672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49892
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531126643521	Marionette	INFO	Listening on port 49892
+1531126694677	geckodriver	INFO	Listening on 127.0.0.1:50022
+1531126696571	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.G4l2gvIIjQRv
+1531126696574	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531126696576	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50034
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531126699371	Marionette	INFO	Listening on port 50034
+1531126764342	addons.productaddons	WARN	Failed downloading X1531126765202	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.FL8IAaidXZ7o
+1531126765204	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531126765207	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50210
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531126767972	Marionette	INFO	Listening on port 50210
+1531127151290	geckodriver	INFO	Listening on 127.0.0.1:50937
+1531127153366	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.GGYulxmTVaXL
+1531127153370	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531127153375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50947
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531127155329	Marionette	INFO	Listening on port 50947
+1531127289072	geckodriver	INFO	Listening on 127.0.0.1:51221
+1531127291090	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.ypNFUrXSiWaE
+1531127291093	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531127291096	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51231
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531127293602	Marionette	INFO	Listening on port 51231
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531127387464	geckodriver	INFO	Listening on 127.0.0.1:51449
+1531127389536	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.bEPg6y7ZeIom
+1531127389540	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531127389545	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51459
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531127391738	Marionette	INFO	Listening on port 51459
+1531127547264	geckodriver	INFO	Listening on 127.0.0.1:51781
+1531127549351	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.Z3indOuZhYDP
+1531127549354	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531127549357	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51790
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531127551142	Marionette	INFO	Listening on port 51790
+1531127828017	geckodriver	INFO	Listening on 127.0.0.1:52310
+1531127830090	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.AinDacOEHmqk
+1531127830093	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531127830096	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52321
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531127831900	Marionette	INFO	Listening on port 52321
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 3476] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531127984711	geckodriver	INFO	Listening on 127.0.0.1:52635
+1531127986770	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.oKOqKyVXnWZz
+1531127986773	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531127986775	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52643
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531127988942	Marionette	INFO	Listening on port 52643
+1531128104634	geckodriver	INFO	Listening on 127.0.0.1:52903
+1531128106722	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.nZpVVTLAD4CZ
+1531128106725	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531128106727	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52913
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128108581	Marionette	INFO	Listening on port 52913
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 4424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531128289758	geckodriver	INFO	Listening on 127.0.0.1:53280
+1531128291840	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.tSgc6VQ6sG2Y
+1531128291843	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531128291845	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53290
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128293599	Marionette	INFO	Listening on port 53290
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128383624	geckodriver	INFO	Listening on 127.0.0.1:53493
+1531128385714	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.F6dcaMdTyP0A
+1531128385719	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531128385724	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53503
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128387552	Marionette	INFO	Listening on port 53503
+1531128479176	geckodriver	INFO	Listening on 127.0.0.1:53702
+1531128481277	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.4CTFEfyTKR4W
+1531128481281	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531128481284	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53711
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128483260	Marionette	INFO	Listening on port 53711
+1531128513388	geckodriver	INFO	Listening on 127.0.0.1:53806
+1531128515456	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.ZDX740EMsaoU
+1531128515460	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531128515464	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53816
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128517608	Marionette	INFO	Listening on port 53816
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 10620] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10620] WARNING: pipe error: 109: file c:/1531128623995	geckodriver	INFO	Listening on 127.0.0.1:54062
+1531128626084	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.SAM0nXwqWeox
+1531128626087	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531128626089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54072
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128628063	Marionette	INFO	Listening on port 54072
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 12744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12744] WARNING: pipe error: 109: file c:/buil1531128887306	geckodriver	INFO	Listening on 127.0.0.1:54666
+1531128889381	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.Ap9EgMQWT2pm
+1531128889383	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531128889387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54675
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128891217	Marionette	INFO	Listening on port 54675
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 2684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2684] WARNING: pipe error: 109: file c:tte	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531128963563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54863
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531128965700	Marionette	INFO	Listening on port 54863
+1531129032207	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531129032211	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531129032211	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531129072171	geckodriver	INFO	Listening on 127.0.0.1:55093
+1531129074235	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.rSNXn7xNDgND
+1531129074238	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531129074241	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55103
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531129076435	Marionette	INFO	Listening on port 55103
+1531187396256	geckodriver	INFO	Listening on 127.0.0.1:54330
+1531187398286	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.lsQD4d61g7yK
+1531187398289	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531187398295	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54336
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531187401048	Marionette	INFO	Listening on port 54336
+1531188058289	geckodriver	INFO	Listening on 127.0.0.1:54858
+1531188060357	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.SvzNgryWCSIG
+1531188060360	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531188060362	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54866
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531188062165	Marionette	INFO	Listening on port 54866
+1531188149679	geckodriver	INFO	Listening on 127.0.0.1:54950
+1531188151723	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.6dFEupZKkpkt
+1531188151725	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531188151727	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54957
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531188153581	Marionette	INFO	Listening on port 54957
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 11740] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11740] WARNING: pipe error: 109: file c:/1531188410948	geckodriver	INFO	Listening on 127.0.0.1:55186
+1531188413021	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.odPpgpx3R69K
+1531188413024	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531188413026	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55193
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531188414901	Marionette	INFO	Listening on port 55193
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531188657606	geckodriver	INFO	Listening on 127.0.0.1:55349
+1531188659696	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.LZZIX7bKyZBA
+1531188659700	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531188659705	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55355
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531188661403	Marionette	INFO	Listening on port 55355
+1531188770083	geckodriver	INFO	Listening on 127.0.0.1:55443
+1531188772176	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.Srwwb0u4jbIx
+1531188772178	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531188772181	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55452
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531188773923	Marionette	INFO	Listening on port 55452
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531189294800	geckodriver	INFO	Listening on 127.0.0.1:55750
+1531189296871	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.Ngu5jzKDDxdT
+1531189296874	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531189296877	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55761
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531189298823	Marionette	INFO	Listening on port 55761
+1531189675740	geckodriver	INFO	Listening on 127.0.0.1:55969
+1531189677807	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.t0Z9Ar8CaCUK
+1531189677810	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531189677814	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55977
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531189679730	Marionette	INFO	Listening on port 55977
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531190074211	geckodriver	INFO	Listening on 127.0.0.1:56202
+1531190076287	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.stJu7x0RZfDA
+1531190076290	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531190076292	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56209
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531190077998	Marionette	INFO	Listening on port 56209
+1531190221079	geckodriver	INFO	Listening on 127.0.0.1:56311
+1531190223151	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.q53hWcqFHX2w
+1531190223153	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531190223156	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56318
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531190224998	Marionette	INFO	Listening on port 56318
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 10356] WARNING: pipe err1531190376198	geckodriver	INFO	Listening on 127.0.0.1:56448
+1531190378273	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.lQnn4l2Gz5BN
+1531190378276	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531190378279	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56456
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531190380385	Marionette	INFO	Listening on port 56456
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 12156] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12156] WARNING: pipe error: 109: file c:/buil1531190655238	geckodriver	INFO	Listening on 127.0.0.1:56619
+1531190657323	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.xQQBMLejKWUG
+1531190657328	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531190657332	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56626
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531190659487	Marionette	INFO	Listening on port 56626
+1531191567646	geckodriver	INFO	Listening on 127.0.0.1:57070
+1531191569699	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.k9Z4bzlkvIxU
+1531191569701	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531191569704	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57077
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531191572101	Marionette	INFO	Listening on port 57077
+1531192369455	geckodriver	INFO	Listening on 127.0.0.1:57453
+1531192371524	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.OprSF1C2SukR
+1531192371527	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531192371530	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57461
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531192373313	Marionette	INFO	Listening on port 57461
+1531193272633	geckodriver	INFO	Listening on 127.0.0.1:58006
+1531193274696	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.sXycPhFHyjmC
+1531193274699	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531193274701	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58012
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531193276464	Marionette	INFO	Listening on port 58012
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 10636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10636] WARNING: pipe error: 109: file c:/builds1531194051946	geckodriver	INFO	Listening on 127.0.0.1:58427
+1531194054011	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.nJ6E0NNLqMFB
+1531194054014	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531194054017	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58434
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531194056149	Marionette	INFO	Listening on port 58434
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531194123378	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 7336] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7336] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-b1531194123385	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531194123386	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531202142263	geckodriver	INFO	Listening on 127.0.0.1:63759
+1531202144347	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.WXh5ZxQ7dWkp
+1531202144350	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531202144352	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63772
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531202146163	Marionette	INFO	Listening on port 63772
+1531202308519	geckodriver	INFO	Listening on 127.0.0.1:64135
+1531202310583	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.tkD0tofG9llC
+1531202310585	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531202310588	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64144
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531202312576	Marionette	INFO	Listening on port 64144
+1531203212602	geckodriver	INFO	Listening on 127.0.0.1:49564
+1531203214665	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.umMmbJs3EXIZ
+1531203214668	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531203214671	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49574
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531203216430	Marionette	INFO	Listening on port 49574
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 11864] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11864] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/bu1531203418279	geckodriver	INFO	Listening on 127.0.0.1:50037
+1531203420365	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.q2vXKgj6p1CR
+1531203420367	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531203420370	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50045
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531203422270	Marionette	INFO	Listening on port 50045
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 6248] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6248] WARNING: pipe error: 109: file 1531204145207	geckodriver	INFO	Listening on 127.0.0.1:51559
+1531204147258	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.m4PYGLqPyv46
+1531204147261	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531204147264	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51568
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531204149497	Marionette	INFO	Listening on port 51568
+1531204717900	geckodriver	INFO	Listening on 127.0.0.1:52799
+1531204719996	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.dWEPnAZC3AXE
+1531204720000	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531204720006	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52811
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531204721787	Marionette	INFO	Listening on port 52811
+1531205034905	geckodriver	INFO	Listening on 127.0.0.1:53479
+1531205036976	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.ClqvpI5tkiJ9
+1531205036978	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531205036981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53488
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531205038923	Marionette	INFO	Listening on port 53488
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 452] WARNING: pipe error: 109: file c:/builds/moz2_sl1531205080200	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.q2n37qHdshQg
+1531205080204	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531205080208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53630
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531205082473	Marionette	INFO	Listening on port 53630
+1531205662067	geckodriver	INFO	Listening on 127.0.0.1:54963
+1531205664144	mozprofile::profile	INFO	Using profile path C:\Users\zlj\AppData\Local\Temp\rust_mozprofile.mihTmEY30VEE
+1531205664147	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1531205664150	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54971
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1531205665863	Marionette	INFO	Listening on port 54971
